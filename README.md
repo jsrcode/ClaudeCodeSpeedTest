@@ -1,0 +1,2 @@
+# ClaudeCodeSpeedTest
+ClaudeCode第三方接口首字测速工具
