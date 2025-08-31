@@ -5,6 +5,12 @@
 
 ClaudeCodeSpeedTest 是一个专门用于测试 Claude API 第三方接口性能的工具，特别关注"首字时间"（Time to First Byte, TTFB）的测量。该工具采用并发测试模式，能够同时测试多个线路的性能，帮助用户选择最优的 API 接口。
 
+## 🎨 界面预览
+
+<img width="690" height="358" alt="image" src="https://github.com/user-attachments/assets/1b566525-4d07-4395-9205-c41f80e1330b" />
+<img width="690" height="186" alt="image" src="https://github.com/user-attachments/assets/7059d692-f91d-46cc-8f7f-e53e8aab8850" />
+<img width="690" height="346" alt="image" src="https://github.com/user-attachments/assets/3cda30c1-8676-47ba-9c9d-eae16461da4e" />
+
 ## ✨ 主要特性
 
 - 🚀 **并发测试支持**：支持异步和多线程两种并发模式
@@ -96,14 +102,6 @@ enabled = true
 - **总响应时间**：完整请求的平均时间
 - **并发数**：实际使用的并发连接数
 - **状态评级**：🟢 优秀 / 🟡 良好 / 🔴 较差
-
-## 🎨 界面预览
-
-- 启动横幅显示工具信息
-- 实时进度条显示测试状态
-- 彩色表格展示测试结果
-- 并发性能统计面板
-- 智能推荐面板
 
 ## 👥 开发团队
 
